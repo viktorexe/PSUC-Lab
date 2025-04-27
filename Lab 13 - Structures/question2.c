@@ -1,3 +1,7 @@
+// Write a program to create an array of student structures to store the roll no., name, and
+// marks in 3 subjects. Input the details of N students into the array and display roll no.,
+// name, and total marks of each student in decreasing order of total marks.
+
 #include <stdio.h>
 #include <string.h>
 

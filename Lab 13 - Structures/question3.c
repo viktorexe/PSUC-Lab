@@ -1,3 +1,8 @@
+// Write a program to create an array of employee structures to store emp-no, name, basic
+// salary, and HRA. Input the details of N employees and display emp-no, name, basic,
+// HRA, and net salary. Display the details of all employees whose net salary is more than
+// the average net salary of all employees.
+
 #include <stdio.h>
 struct emp {
     int eno;

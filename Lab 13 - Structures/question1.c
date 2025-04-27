@@ -1,3 +1,7 @@
+// Write a program to define a structure personal that would contain the person’s name,
+// date of joining, and salary. Using this structure write a program to read this information
+// for one person from the keyboard and print the same on the screen.
+
 #include <stdio.h>
 #include <string.h>
 
